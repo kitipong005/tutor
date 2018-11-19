@@ -13,7 +13,7 @@
     @section('sidebar-action')
     <ul class="nav">
             <li >
-                <a href="dashboard.html">
+                <a href="#">
                     <i class="pe-7s-graph"></i>
                     <p>Dashboard</p>
                 </a>
